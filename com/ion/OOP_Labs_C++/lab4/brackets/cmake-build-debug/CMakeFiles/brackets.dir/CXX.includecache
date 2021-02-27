@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ion/Documents/Sem(III)/OOP/Homework/OOP_Labs_C++/lab4/brackets/Stack.h
+
+/home/ion/Documents/Sem(III)/OOP/Homework/OOP_Labs_C++/lab4/brackets/bracketsChecker.h
+string
+-
+Stack.h
+/home/ion/Documents/Sem(III)/OOP/Homework/OOP_Labs_C++/lab4/brackets/Stack.h
+
+/home/ion/Documents/Sem(III)/OOP/Homework/OOP_Labs_C++/lab4/brackets/main.cpp
+fstream
+-
+string
+-
+bracketsChecker.h
+/home/ion/Documents/Sem(III)/OOP/Homework/OOP_Labs_C++/lab4/brackets/bracketsChecker.h
+

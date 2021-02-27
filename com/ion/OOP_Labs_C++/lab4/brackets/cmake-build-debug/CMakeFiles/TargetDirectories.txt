@@ -1,0 +1,3 @@
+/home/ion/Documents/Sem(III)/OOP/Homework/OOP_Labs_C++/lab4/brackets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ion/Documents/Sem(III)/OOP/Homework/OOP_Labs_C++/lab4/brackets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ion/Documents/Sem(III)/OOP/Homework/OOP_Labs_C++/lab4/brackets/cmake-build-debug/CMakeFiles/brackets.dir
